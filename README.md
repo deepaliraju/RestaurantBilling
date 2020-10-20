@@ -16,5 +16,5 @@ The customer can buy only one item of a particular type , the items available in
 # KNOWN DEFECTS IN THE SOLUTION
 A large amount of people cannot be managed , maximum capacity is 5 terminals * 4 people in each queue=20 people at most.
 Only one item can be selected at a time.
-
+# THANK YOU
 
